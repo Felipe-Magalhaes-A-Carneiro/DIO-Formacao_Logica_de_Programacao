@@ -1,7 +1,8 @@
-let poteCafe = "Café pilão";
-let poteAcucar = "Açucar cristal";
-let poteBiscoito = "Biscoito maizena";
+//Pokémon
+//Reconhecimento de diferentes tipos de variáveis: String (variáveis para armazenar textos), Number (variáveis para armazenar números), Boolean (variáveis para armazenar condições sendo ela 'false' || 0 ou 'true' || 1):
 
-poteCafe = "Café 3 corações"
-
-console.log("Na cozinha da vovó hoje tem: " + poteCafe + ", " + poteAcucar + ", " + poteBiscoito)
+let nomePokemon = "Pikachu";
+let nivelPokemon = 20;
+let pontosDeVida = 45;
+let sexoPokemon = "M"
+let selecionavel = true
