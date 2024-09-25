@@ -9,7 +9,7 @@ let nomePessoa = "Ana";
 let idade = 27;
 let nuumeroTel = "(99) 9.9999-9999";
 let cpf = "999.999.999-99";
-let endereco = "Rua dos limoeiros, número 99, bairro Rosa"
-let pensao = true; //ouseja, verdadeiro
+let endereco = "Rua dos Limoeiros, 99 - Bairro Rosa"
+let pensao = true; //ou seja, 'verdadeiro'
 
 idade = 28;
